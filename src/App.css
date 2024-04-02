@@ -1,0 +1,51 @@
+.Login-component {
+  background: url(../static/login-bg.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+
+.todo-container {
+  padding: 0% 5%;
+  height: 40%;
+  width: 60%;
+  margin: 5% 20%;
+  background-color: cadetblue;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+
+
+
+.todo-container h1 {
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+  color: white;
+
+}
+
+input {
+  width: 100%;
+  /* min-width: 10rem; */
+}
+
+.item-contener {
+  text-align: left;
+}
+
+.kg-row {
+  /* margin: 20px 10px; */
+  margin: 20px;
+}
+
+.kg-button {
+  width: 60px;
+
+
+}
+
+.checkbox {
+  text-decoration: line-through;
+}
