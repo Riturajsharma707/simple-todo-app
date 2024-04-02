@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 
 Steps to rus :
 
- 1--> Make sure you are in inside the todo-app
+ 1--> Make sure you are inside the todo-app
  2--> Run npm install
  3--> npm run dev 
 
